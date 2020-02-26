@@ -1,0 +1,9 @@
+{
+  "template": "custom-template",
+  "platform": "x86_64",
+  "language": "Dockerfile",
+  "source": "openfaas",
+  "description": "Classic Dockerfile template",
+  "repo": "https://github.com/openfaas/templates",
+  "official": "true"
+}

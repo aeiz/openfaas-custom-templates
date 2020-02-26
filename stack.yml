@@ -1,0 +1,7 @@
+version: 1.0
+provider:
+  name: openfaas
+functions:
+  template-store:
+    lang: node
+    handler: ./template-store
